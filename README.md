@@ -9,6 +9,8 @@ Vuforia SDK;
 **************
 Watch video here:
 https://disk.yandex.ru/i/11RiOGFvWiK7Ig
+
+
 Icon :
 
 
