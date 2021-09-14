@@ -1,4 +1,4 @@
-# Gate-AR
+# Gates-AR
 **************
 
 Stack:
