@@ -1,7 +1,7 @@
 # Gate-AR
 **************
-End of june 2021.
-Used stack:
+
+Stack:
 Blender 3d;
 Unity 3d 2019;
 C#;
