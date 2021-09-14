@@ -8,5 +8,5 @@ C#;
 Vuforia SDK;
 **************
 Watch video here:
-https://disk.yandex.ru/i/LBMVfiKoDc5tKg
+https://disk.yandex.ru/i/11RiOGFvWiK7Ig
 
