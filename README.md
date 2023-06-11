@@ -7,7 +7,7 @@ Unity 3d 2019;
 C#;
 Vuforia SDK;
 **************
-Watch video demonstration here:
+Watch video demonstration is here:
 https://drive.google.com/file/d/1UMhIQWaGb5XmKXZtbVphvFJ1WL2zYh4B/view?usp=share_link
 
 
