@@ -8,7 +8,7 @@ C#;
 Vuforia SDK;
 **************
 Watch video demonstration is here:
-https://drive.google.com/file/d/1UMhIQWaGb5XmKXZtbVphvFJ1WL2zYh4B/view?usp=share_link
+[https://drive.google.com/file/d/1UMhIQWaGb5XmKXZtbVphvFJ1WL2zYh4B/view?usp=share_link](https://drive.google.com/file/d/1l9fKS55qqmUz05x9Fs7h2UUPLJNdwLEr/view?usp=sharing)
 
 
 Icon :
